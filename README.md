@@ -1,4 +1,4 @@
-# Easy Visual Novel Engine
+# Fast Visual Novel Engine
 
 A modular visual novel engine for Unity, built for writers and artists rather
 than programmers. Stories are data you edit on a graph, every menu is generated
